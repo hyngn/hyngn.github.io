@@ -1,0 +1,28 @@
+<div class='box'>
+    <table width="90%">
+    <tr>
+      <th colspan='2'>종이의 집</th>
+    </tr>
+    
+    <tr>
+      <td rowspan = '3'>
+        <img src="images/img01.jpg" style='height:600px;'>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/t9P859pHOrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        넷플릭스에서 스트리밍 중인 스페인 드라마. <br>
+        넷플릭스 드라마 전체를 통틀어 2위에 오른 기록이 있는 인기작이다. <br>
+        장르는 범죄 스릴러로, 교수라고 불리는 한 천재가 8명의 범죄자들을 모아 금고를 터는 이야기다. <br>
+        시즌 내내 경찰과 교수 사이의 마치 게임을 하는 듯한 머리싸움의 묘미를 느낄 수 있다.<br>
+      </td>
+    </tr>
+    </table>     
+    </div>
